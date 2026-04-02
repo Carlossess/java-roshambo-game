@@ -9,6 +9,12 @@ A Java command-line game where the user plays Rock-Paper-Scissors against the co
 - Tracks player and computer scores
 - Validates user input to prevent invalid entries
 
+## Example Output
+Round 1 of 5
+You chose: Rock
+Computer chose: Scissors
+You win the round!
+
 ## Technologies
 - Java
 - Eclipse
